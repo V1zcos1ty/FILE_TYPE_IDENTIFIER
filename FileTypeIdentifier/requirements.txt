@@ -1,0 +1,4 @@
+colorama==0.4.6
+python-magic==0.4.27
+rich==14.0.0
+pytest==8.4.1
